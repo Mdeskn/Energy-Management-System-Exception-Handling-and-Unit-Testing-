@@ -62,7 +62,7 @@ In this version, we have integrated advanced exception handling and comprehensiv
    - Visit the GitHub repository and download the project by clicking **Code** and selecting **Download ZIP**, or clone the repository using:
    
    ```bash
-   git clone https://github.com/Mdeskn/EnergyManagementSystem.git
+   git clone https://github.com/Mdeskn/Energy-Management-System-Exception-Handling-and-Unit-Testing-.git
    ```
 
 2. **Import the Project into Eclipse**:
