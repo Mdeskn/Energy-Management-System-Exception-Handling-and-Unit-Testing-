@@ -98,7 +98,7 @@ Below are screenshots of key project results, such as successful unit test execu
 3. **Triggering and Capturing `RethrowException`**:
    - A screenshot showing the re-throwing of an exception in the `RethrowExceptionHandler`, along with the stack trace and custom message.
 
-   ![Triggering and Capturing RethrowException](https://github.com/Mdeskn/Energy-Management-System-Exception-Handling-and-Unit-Testing-/raw/main/imgs/Triggering%20and%20Capturing%20RethrowException.jpg)
+   ![Triggering and Capturing RethrowException](https://github.com/Mdeskn/Energy-Management-System-Exception-Handling-and-Unit-Testing-/raw/main/imgs/Triggering%20and%20Capturing%20RethrowException.jpg) 
 
 ---
 
